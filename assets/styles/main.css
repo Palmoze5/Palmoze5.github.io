@@ -1,12 +1,13 @@
 body {
-  background: #000;
+  background: #205DE8;
 }
 
 h1 {
-  color: #FF2734;
+  color: #FFFFFF;
 }
 
 img {
-    width: 30px;
-    height: 30px;
+    width: 30%;
+    height: 30%;
+    padding: 30px;
 }
