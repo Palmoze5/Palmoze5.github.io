@@ -11,3 +11,11 @@ img {
     height: 30%;
     padding: 30px;
 }
+
+a {
+  color: yellow;
+}
+
+div.a {
+  font-size: 80px;
+}
