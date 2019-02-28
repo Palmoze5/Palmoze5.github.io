@@ -16,6 +16,9 @@ a {
   color: yellow;
 }
 
-div.a {
-  font-size: 80px;
+h3 {
+  font-size: 25px;
+}
+h4 {
+  font-size: 15px;
 }
